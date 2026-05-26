@@ -1,37 +1,51 @@
-# Cross PR
+# Cross PR: взаимный пиар в Telegram
 
-Cross PR is a Telegram mutual promotion concept for channel and bot owners who want to find relevant partners and organize cross-promotion more efficiently.
+Cross PR — публичное описание концепции сервиса для взаимного пиара в Telegram. Проект ориентирован на владельцев Telegram-каналов, Telegram-ботов, сообществ и агентств, которым нужны релевантные партнеры для роста аудитории.
 
-The project focuses on Telegram-native growth, partner discovery, mutual PR campaigns, and structured promotion workflows.
+Этот репозиторий создан для SEO и общего описания продукта. Здесь нет рабочего кода, приватной логики, API-ключей, токенов, паролей, баз данных, внутренних промптов, алгоритмов подбора или инструкций по запуску реальной системы.
 
-## What Cross PR Is
+## Что это
 
-Cross PR is positioned as a marketplace and workflow layer for Telegram mutual PR. It helps channel and bot owners think about partnership opportunities, promotion bundles, and audience-fit recommendations without turning the public repository into a copyable implementation.
+Cross PR — концепция маркетплейса и рабочего процесса для кросс-пиара в Telegram. Идея продукта — помогать владельцам каналов и ботов находить подходящих партнеров для взаимного продвижения, рекомендаций и PR-размещений.
 
-The project is designed around:
+Проект связан с такими задачами, как:
 
-- Telegram channel and bot promotion
-- mutual PR partner discovery
-- audience-fit matching concepts
-- promotion bundles
-- structured outreach
-- AutoPR-style workflow ideas
+- взаимный пиар в Telegram;
+- кросс пиар Telegram-каналов;
+- продвижение Telegram канала;
+- продвижение Telegram бота;
+- поиск партнеров для взаимной рекламы;
+- организация PR-размещений между Telegram-проектами.
 
-## Who It Is For
+## Для кого
 
-- Telegram channel owners
-- Telegram bot owners
-- community builders
-- creators growing niche audiences
-- agencies managing Telegram promotion
-- projects looking for relevant partner channels
+Cross PR может быть полезен:
 
-## Public Repository Scope
+- владельцам Telegram-каналов;
+- владельцам Telegram-ботов;
+- создателям нишевых сообществ;
+- SMM-специалистам и Telegram-маркетологам;
+- агентствам, которые ведут несколько Telegram-проектов;
+- стартапам и продуктовым командам, которым нужно партнерское продвижение.
 
-This repository is a public SEO and product overview. It is not the production source code, not an installation package, and not an operational manual.
+## Какую задачу решает
 
-No private implementation, credentials, deployment configuration, database structure, internal prompts, matching algorithms, analytics exports, or business-sensitive automation logic is included here.
+Взаимный пиар в Telegram часто строится на ручном поиске партнеров, переписках и субъективной оценке аудитории. Cross PR описывает продуктовый подход, где партнерское продвижение можно сделать более структурированным: описать проект, понять релевантность партнера и организовать взаимную рекомендацию.
 
-## Keywords
+## Безопасность публичного репозитория
 
-Cross PR, Telegram mutual PR, Telegram cross promotion, Telegram channel promotion, Telegram bot promotion, mutual promotion marketplace, Telegram partner discovery, AutoPR.
+Публичный репозиторий не является исходным кодом продукта и не предназначен для установки. Он содержит только высокоуровневое описание для поиска, ознакомления и публичного позиционирования.
+
+В репозитории намеренно отсутствуют:
+
+- production source code;
+- API-ключи, bot tokens, пароли и секреты;
+- персональные данные;
+- приватные алгоритмы подбора;
+- базы данных и аналитические выгрузки;
+- deployment-конфигурации;
+- внутренние промпты и операционные инструкции.
+
+## Ключевые запросы
+
+Взаимный пиар в Telegram, кросс пиар Telegram, продвижение Telegram канала, продвижение Telegram бота, взаимная реклама в Telegram, партнерское продвижение Telegram, поиск каналов для пиара.
